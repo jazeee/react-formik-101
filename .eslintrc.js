@@ -44,5 +44,7 @@ module.exports = {
     ],
     'import/prefer-default-export': 'off',
     'react/jsx-filename-extension': [1, { extensions: ['.tsx', '.jsx'] }],
+    '@typescript-eslint/no-unused-vars': 'error',
+    'react/jsx-props-no-spreading': 'off',
   },
 };
