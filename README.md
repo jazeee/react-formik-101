@@ -5,7 +5,8 @@ Go over some main React + Formik + Yup concepts and related form state managemen
 ## Getting started:
 
 1. Clone this repo locally.
-  1. e.g: `git clone git@github.com:jazeee/react-formik-101.git`
+   1.  e.g: `git clone git@github.com:jazeee/react-formik-101.git`
+   2.  Consider starting from tag `pre-form-creation-updated`
 2. `cd react-formik-101`
 3. `yarn`
 4. `yarn start`
