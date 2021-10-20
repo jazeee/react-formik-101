@@ -1,17 +1,33 @@
-Created using
+# React Formik Workshop 101 Code
+
+Go over some main React + Formik + Yup concepts and related form state management.
+
+## Getting started:
+
+1. Clone this repo locally.
+  1. e.g: `git clone git@github.com:jazeee/react-formik-101.git`
+2. `cd react-formik-101`
+3. `yarn`
+4. `yarn start`
+5. or `yarn test`
+
+## Created using
+
 ```
 create-react-app react-formik-101 --template cra-template-typescript
 ```
 
-Added packages:
+Added/upgraded packages:
 ```
-react-query
 react 17
 eslint + base configs 
 prettier
+formik
+yup
 ```
 
 Added `.prettierrc`, and `eslintrc.js`
+Added template code.
 
 
 
