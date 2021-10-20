@@ -1,6 +1,6 @@
 Created using
 ```
-create-react-app react-hooks-dogs-101 --template cra-template-typescript
+create-react-app react-formik-101 --template cra-template-typescript
 ```
 
 Added packages:
